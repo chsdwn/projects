@@ -1,12 +1,13 @@
-# https://github.com/chsdwn/ng-sight.api
-- DotNet Core v2.2
+# C# DotNet
+## https://github.com/chsdwn/ng-sight.api
 - UserSecrets
 - PostgreSQL
 
-# https://github.com/chsdwn/css-tutorials
-- SASS
+# CSS SASS
+## https://github.com/chsdwn/css-tutorials
 
-# https://github.com/chsdwn/the-ultimate-redux-course
+# Vanilla JavaScript
+## https://github.com/chsdwn/the-ultimate-redux-course
 - axios
 - immer
 - immutable
@@ -14,17 +15,8 @@
 - moment
 - redux(middleware)
 
-# https://github.com/chsdwn/DoneWithIt
-- React Native
-- formik
-- yup
-
-# https://github.com/chsdwn/instagram-clone-vue
-- Vue
-- postcss
-
-# https://github.com/chsdwn/SocialAfalie
-- React
+# React
+## https://github.com/chsdwn/SocialAfalie
 - Authentication
 - axios(agent, interceptors)
 - date-fns
@@ -32,3 +24,48 @@
 - final-form
 - revalidate
 - semantic-ui
+
+# React Native
+## https://github.com/chsdwn/DoneWithIt
+- formik
+- yup
+- ImagePicker
+- gesture-handler(Swipeable)
+
+## https://github.com/chsdwn/TurkceSozluk
+- react-navigation
+- react-native-gesture-handler
+- react-native-reanimated
+- react-native-screens
+- react-native-svg
+- styled-components
+- styled-system
+
+## https://github.com/chsdwn/react-native-fashion
+- formik
+- yup
+- react-navigation
+- react-native-gesture-handler
+- react-native-reanimated
+- react-native-svg
+- react-native-redash
+- react-native-vector-icons
+
+## https://github.com/chsdwn/react-native-the-practical-guide
+- expo
+- react-navigation
+- react-native-gesture-handler
+- react-native-reanimated
+- react-native-image-picker
+- react-native-maps
+- redux
+- redux-thunk
+- expo-file-system
+- expo-image-picker
+- expo-location
+- expo-permissions
+- expo-sqlite
+
+# Vue
+## https://github.com/chsdwn/instagram-clone-vue
+- postcss
