@@ -27,6 +27,7 @@
 
 # React Native
 ## https://github.com/chsdwn/DoneWithIt
+- react-native-community/hooks
 - formik
 - yup
 - ImagePicker
@@ -36,8 +37,8 @@
 - react-navigation
 - react-native-gesture-handler
 - react-native-reanimated
-- react-native-screens
 - react-native-svg
+- react-native-community/masked-view
 - styled-components
 - styled-system
 
@@ -50,6 +51,7 @@
 - react-native-svg
 - react-native-redash
 - react-native-vector-icons
+- shopify/restyle
 
 ## https://github.com/chsdwn/react-native-the-practical-guide
 - expo
@@ -60,6 +62,7 @@
 - react-native-maps
 - redux
 - redux-thunk
+- moment
 - expo-file-system
 - expo-image-picker
 - expo-location
