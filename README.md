@@ -1,6 +1,6 @@
 
 # Table of Contents
-## [1. Projects-1](#1-projects-1)
+## [1. Projects](#1-projects-1)
 - [AfalieStore](#afaliestore)
 - [DatingApp](#datingapp)   
 - [DoneWithIt](#donewithit)
