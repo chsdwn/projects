@@ -1,6 +1,6 @@
 
 # Table of Contents
-## [1. Projects](#1-projects)
+## [1. Projects-1](#1-projects-1)
 - [AfalieStore](#afaliestore)
 - [DatingApp](#datingapp)   
 - [DoneWithIt](#donewithit)
@@ -25,7 +25,7 @@
 - [twitter-clone-nextjs](#twitter-clone-nextjs)
 - [vega](#vega)
 - [VideoTube](#videotube)
-## [2. Course Follow Along, Tutorial Projects](#2-course-follow-along-tutorial-projects)
+## [2. Course Follow Along, Tutorial Projects](#2-course-follow-along-tutorial-projects-1)
 - [CleanCode](#cleancode)
 - [complete-elixir-and-phoenix](#complete-elixir-and-phoenix)
 - [complete-nodejs-course](#complete-nodejs-course)
